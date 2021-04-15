@@ -1,4 +1,4 @@
-#SMS Spam-Classifier
+# SMS Spam-Classifier
 
 this is a SMS spam classifier project which can tell whether an sms is a spam or not with 97% accuracy.
 
