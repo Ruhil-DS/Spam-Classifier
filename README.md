@@ -4,7 +4,7 @@ This is a SMS spam classifier project which can tell whether an sms is a spam or
 
 I built this spam classifier model using a Support Vector Machine classifier.
 
-The dataset used was taken from Kaggle.com (a link to which is meentioned in the .ipynb)
+The dataset used was taken from Kaggle.com (a link to which is mentioned in the .ipynb)
 The dataset was split into a training and testing dataset by stratifying it on the basis of our target column because there was a big difference between the number of spams and number of hams.
 The ratio was nearly the same in the training and testing dataset.
 
