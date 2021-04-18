@@ -13,4 +13,4 @@ I used CountVectorizer for feature extraction of the text data(i.e., SMSs) with 
 The output was a sparse matrix.
 
 
-Finally, after training the model on training set and calculating the scores, i got a really outstanding result on both, train as well as test dataset.
+Finally, after training the model on training set and calculating the scores, i got an outstanding result on both, train as well as test dataset.
