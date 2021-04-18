@@ -1,6 +1,6 @@
 # SMS Spam-Classifier
 
-this is a SMS spam classifier project which can tell whether an sms is a spam or not with 97% accuracy.
+This is a SMS spam classifier project which can tell whether an sms is a spam or not with 97% accuracy.
 
 I built this spam classifier model using a Support Vector Machine classifier.
 
